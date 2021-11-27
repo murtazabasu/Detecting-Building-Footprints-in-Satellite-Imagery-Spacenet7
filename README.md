@@ -1,0 +1,1 @@
+# Detecting-Building-Footprints-in-Satellite-Imagery-Spacenet7
