@@ -141,6 +141,7 @@ cython_debug/
 input/images/*.tif
 input/labels_geo/*.geojson
 input/labels_pix/*.geojson
+model_output/*.pt
 output/*.tif
 tmp/
 devel/
